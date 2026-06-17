@@ -1,0 +1,6 @@
+{
+  "name": "WireGuard Gaming VPN Optimizer",
+  "description": "Un configurateur et optimiseur de VPN WireGuard calibré pour le Cloud Gaming, doublé d'un outil d'exportation de sites web en fenêtres autonomes natives Windows (.exe) via PyQt6 et PyInstaller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
